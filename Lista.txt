@@ -18,3 +18,5 @@ atemoia
 cacau
 maca
 banana
+mamão
+melancia
