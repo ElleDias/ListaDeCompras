@@ -17,3 +17,4 @@ cupuacu
 atemoia
 cacau
 maca
+banana
